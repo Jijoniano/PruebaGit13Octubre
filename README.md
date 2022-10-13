@@ -1,2 +1,3 @@
-# PruebaGit13Octubre
- Creacion del repositorio nuevo con readme, license, git ignore
+Soy Guillermo haciendo la primera prueba de github.
+Versión 0.1.
+
